@@ -1,5 +1,5 @@
 # DataCrawling
-Crawlling data from kompas.com
+Crawlling data from detik.com
 
 ![image](https://github.com/user-attachments/assets/728929e6-fea4-4d84-afaf-e418c687c89e)
 
